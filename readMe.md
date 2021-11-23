@@ -5,3 +5,5 @@ Edit task
 Delete task
 
 List tasks
+
+Ensure to export SECRET_KEY in environment variables
